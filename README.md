@@ -1,7 +1,7 @@
 # Bem-vindo ao meu Perfil!
 
 ## Sobre Mim
-Eu sou um desenvolvedor entusiasmado com uma paixão pela criação de soluções de software inovadoras. Minha experiência inclui desenvolvimento web, ciência de dados e aprendizado de máquina.
+Eu sou um desenvolvedor entusiasmado com uma paixão pela criação de soluções de software inovadoras. Minha experiência inclui desenvolvimento backend.
 
 ## Habilidades Técnicas
 - Linguagens de Programação: Java, Kotlin, JavaScript, React Native
