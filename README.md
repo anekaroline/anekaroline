@@ -5,7 +5,7 @@ Eu sou um desenvolvedor entusiasmado com uma paixão pela criação de soluçõe
 
 ## Habilidades Técnicas
 - Linguagens de Programação: Java, Kotlin, JavaScript, React Native
-- Frameworks: Springbook, Angular, Node.js
+- Frameworks: Springbook, Angular
 - Banco de Dados: MySQL, Postgresql, SQLServer
 
 ## Projetos Destacados
