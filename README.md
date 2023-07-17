@@ -4,8 +4,8 @@
 Eu sou um desenvolvedor entusiasmado com uma paixão pela criação de soluções de software inovadoras. Minha experiência inclui desenvolvimento backend em Java 8+.
 
 ## Habilidades Técnicas
-- Linguagens de Programação: Java, Kotlin, JavaScript, React Native
-- Frameworks: Springbook, Angular
+- Linguagens de Programação: Java, Kotlin, JavaScript
+- Frameworks: Springbook, Angular, React Native
 - Banco de Dados: MySQL, Postgresql, SQLServer
 
 ## Projetos Destacados
