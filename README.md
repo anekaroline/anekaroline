@@ -1,7 +1,7 @@
 # Bem-vindo ao meu Perfil!
 
 ## Sobre Mim
-Eu sou um desenvolvedor entusiasmado com uma paixão pela criação de soluções de software inovadoras. Minha experiência inclui desenvolvimento backend em Java 8+.
+Eu sou uma desenvolvedora entusiasmada com uma paixão pela criação de soluções de software inovadoras, sou bacharel de ciência da computação. Minha experiência inclui desenvolvimento backend em Java 8+.
 
 ## Habilidades Técnicas
 - Linguagens de Programação: Java, Kotlin, JavaScript
