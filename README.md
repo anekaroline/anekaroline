@@ -1,16 +1,23 @@
-### Hi there 👋
+# Bem-vindo ao meu Perfil!
 
-<!--
-**anekaroline/anekaroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Eu sou um desenvolvedor entusiasmado com uma paixão pela criação de soluções de software inovadoras. Minha experiência inclui desenvolvimento web, ciência de dados e aprendizado de máquina.
 
-Here are some ideas to get you started:
+## Habilidades Técnicas
+- Linguagens de Programação: Java, Kotlin, JavaScript, React Native
+- Frameworks: Springbook, Angular, Node.js
+- Banco de Dados: MySQL, Postgresql, SQLServer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Destacados
+1. Projeto Tasskf - uma API de Tasks em Grupo, desenvolvida em Kotlin e Spring Boot.
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anekaroline&show_icons=true&theme=dark)
+
+## Contribuições
+![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=anekaroline&theme=dark)
+
+## Entre em Contato
+- LinkedIn: [Ane Karoline](https://www.linkedin.com/in/anekarolines/)
+- Email: anekarolinespereira@gmail.com
+
