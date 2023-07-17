@@ -18,6 +18,8 @@ Eu sou uma desenvolvedora entusiasmada com uma paixão pela criação de soluç�
 ![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=anekaroline&theme=dark)
 
 ## Entre em Contato
-- LinkedIn: [Ane Karoline](https://www.linkedin.com/in/anekarolines/)
-- Email: anekarolinespereira@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anekarolines/)](https://www.linkedin.com/in/anekarolines/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/anekaroline)](https://github.com/anekaroline)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:anekarolinespereira@gmail.com)](mailto:anekarolinespereira@gmail.com)
+
 
