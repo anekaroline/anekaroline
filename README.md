@@ -14,6 +14,8 @@ Eu sou uma desenvolvedora entusiasmada com uma paixão pela criação de soluç�
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anekaroline&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anekaroline&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contribuições
 ![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=anekaroline&theme=dark)
 
