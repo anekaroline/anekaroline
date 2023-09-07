@@ -8,9 +8,6 @@ Eu sou uma desenvolvedora entusiasmada com uma paixão pela criação de soluç�
 - Frameworks: Springbook, Angular, React Native
 - Banco de Dados: MySQL, Postgresql, SQLServer
 
-## Projetos Destacados
-1. Projeto Tasskf - uma API de Tasks em Grupo, desenvolvida em Kotlin e Spring Boot.
-
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anekaroline&show_icons=true&theme=dark)
 
