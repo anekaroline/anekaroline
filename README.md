@@ -4,7 +4,7 @@
 Eu sou uma desenvolvedora entusiasmada com uma paixão pela criação de soluções de software inovadoras, sou bacharel de ciência da computação. Minha experiência inclui desenvolvimento backend em Java 8+.
 
 ## Habilidades Técnicas
-- Linguagens de Programação: Java, Kotlin, JavaScript
+- Linguagens de Programação: Java, Kotlin
 - Frameworks: Springbook, Angular, React Native
 - Banco de Dados: MySQL, Postgresql, SQLServer
 
