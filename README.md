@@ -5,7 +5,7 @@ Eu sou uma desenvolvedora entusiasmada com uma paixão pela criação de soluç�
 
 ## Habilidades Técnicas
 - Linguagens de Programação: Java, Kotlin
-- Frameworks: Springbook, Angular, React Native
+- Frameworks: Spring boot, Angular, React Native
 - Banco de Dados: MySQL, Postgresql, SQLServer
 
 ## Estatísticas do GitHub
